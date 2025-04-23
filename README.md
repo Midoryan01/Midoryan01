@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan Adi Sanjaya</h1>
-<h3 align="center">a student at Universitas Bina Sarana Informatika majoring in Information Systems. I have a deep interest in web development and system analyst, and I am committed to continuously learning and enhancing my skills in the technology field.</h3>
+<h3 align="center">Currently a student at Universitas Bina Sarana Informatika, majoring in Information Systems, I’m passionate about building impactful digital solutions through web development and system analysis. With a constant drive to explore new technologies, I’m committed to expanding my skill set and applying my knowledge to solve real-world challenges. Whether it's designing intuitive interfaces or optimizing complex systems, I'm always looking for opportunities to innovate and grow as a developer.</h3>
 
 - 📫 How to reach me **ryanadisanjaya@gmail.com**
 
